@@ -1,7 +1,7 @@
 # Stack Underflow
 ---
 
-[Link to live]([https://stack-underflow-bleh.herokuapp.com/](https://stack-underflow-05f09e5051e5.herokuapp.com/))
+[Link to live](https://stack-underflow-bleh.herokuapp.com/](https://stack-underflow-05f09e5051e5.herokuapp.com/)
 
 A Stack Overflow clone.
 
