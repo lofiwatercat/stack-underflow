@@ -1,12 +1,11 @@
 # Stack Underflow
 ---
 
-[Link to live](https://stack-underflow-bleh.herokuapp.com/)
+[Link to live]([https://stack-underflow-bleh.herokuapp.com/](https://stack-underflow-05f09e5051e5.herokuapp.com/))
 
-Here's the deal. You want the Stack Overflow experience without getting downvoted to oblivion. You can get it here. Stack Underflow is a clone of Stack Overflow, and provides the core functionality that the user needs to ask questions and post answers. Best thing is you won't get downvoted, probably
+A Stack Overflow clone.
 
 ## Tech stack
-It's a bit dated but here we go:
 * Backend: Ruby on Rails, Postgresql
   - To manage user data, including their questions, answers, comments, and votes
 * Frontend: React, Redux
@@ -14,7 +13,7 @@ It's a bit dated but here we go:
 
 ## Splash Page
 
-The first thing a user sees with quick links to log in and sign up, with a bit of css magic for those colorful little squares.
+The first thing a user sees with quick links to log in and sign up, and some css to liven things up.
 
 ![](https://github.com/loFiWaterCat/stack-underflow/blob/main/images/splash.png)
 
